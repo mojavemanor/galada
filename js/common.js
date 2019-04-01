@@ -111,7 +111,7 @@ $(function() {
     limit: 6,
     resolution: 'standard_resolution',
     userId: '12008078887',
-    accessToken: '00df8e5e90db43059eb139f39c4ac180.6ba20b082cee478f9cb7760749590234',
+    accessToken: '12008078887.1677ed0.f724f0dc38514253b29c7e5425de2c3b',
     template:
       '<li class="instagram-item"><a href="{{link}}" aria-label="{{caption}}" target="_blank"><img src="{{image}}" alt="{{caption}}"></a></li>'
   });
